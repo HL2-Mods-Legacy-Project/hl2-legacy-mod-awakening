@@ -14,10 +14,7 @@
 		SearchPaths
 		{
 			Game	|gameinfo_path|.
-			Game	"${{source2006_episodic_binaries_path}}" // Used as an equivalence, instead of the default Source SDK Base one
 			Game	sourcetest
-			Game	"${{source2006_hl2_patches_path}}"
-			Game	"${{source2006_hl2_content_path}}"
 			Game	hl2
 		}
 	}
