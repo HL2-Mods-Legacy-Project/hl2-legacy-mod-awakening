@@ -15,6 +15,7 @@
 		{
 			Game	|gameinfo_path|.
 			Game	sourcetest
+			Game	hl2_2006
 			Game	hl2
 		}
 	}

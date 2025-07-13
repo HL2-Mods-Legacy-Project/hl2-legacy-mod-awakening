@@ -1,6 +1,6 @@
 & "$PSScriptRoot\..\gitmodules\mod-installer\build_all.ps1" `
   -Version "2.0.0" `
-  -PreReleaseVersion "beta.1" `
+  -PreReleaseVersion "beta.2" `
   -OutputFilePrefix "Awakening_1.1" `
   -ModName "Awakening 1.1" `
   -ModFolder "Awakening" `
